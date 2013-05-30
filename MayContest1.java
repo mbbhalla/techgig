@@ -35,7 +35,7 @@ public class MayContest1
     }
     
     public static void main(String[] args) {
-    	int[] array = {1,5,5,11,4,5,2,3454,4323,67,52,54677,232454,54,53454,5,4,5,7,3,2,4,6,6};
+    	int[] array = {2,3,5,7,8,1,4,9,6,10,11};
 		System.out.println(partition(array));
 	}
     
